@@ -72,3 +72,19 @@ This is one way to run your app — you can also run it directly from within And
 - **react-native-reanimated**: 3.15.4
 - **react-native-sqlite-storage**: 6.0.1
 - **react-native-vector-icons**: 10.2.0
+
+## Screenshots
+<p float="left">
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-09 at 17 03 12](https://github.com/user-attachments/assets/9bba3c44-42ce-45df-b6bf-65e0cdf19098)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-09 at 17 03 19](https://github.com/user-attachments/assets/8b703d5c-00ea-4206-b14f-81dda4809d86)
+</p>
+
+<p float="left">
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-09 at 17 01 58](https://github.com/user-attachments/assets/27fc729f-8d83-4173-8075-8b2ed915a7f4)
+![Simulator Screenshot - iPhone 15 Pro - 2024-10-09 at 17 04 51](https://github.com/user-attachments/assets/e655518f-dbcf-4c44-8258-de02b181d8c0)
+</p>
+
+
+
+
+
