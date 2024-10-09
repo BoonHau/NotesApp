@@ -50,6 +50,8 @@ This is one way to run your app — you can also run it directly from within And
 
 ### SDK Versions
 
+- **iOS**: >= 13.4
+- **Android**: >= 23
 - **React Native**: 0.75.4
 - **React**: 18.3.1
 - **TypeScript**: 5.0.4
